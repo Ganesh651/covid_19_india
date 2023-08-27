@@ -1,0 +1,10 @@
+{
+      "sqltools.connections": [
+            {
+                  "previewLimit": 50,
+                  "driver": "SQLite",
+                  "name": "covid19India.db",
+                  "database": "${workspaceFolder:deploy}/covid_19_india/covid19India.db"
+            }
+      ]
+}
